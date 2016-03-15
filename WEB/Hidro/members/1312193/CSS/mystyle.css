@@ -1,0 +1,38 @@
+body{
+			background:url(../images/background.jpg);
+		}
+		div.border{
+			width:800px;
+			min-height:500px;
+			margin:auto;
+			padding: 0px;
+			background:url(images/background_content.jpg);
+		}
+		.lcontent{
+			float:left;
+		}
+		.rcontent{
+			float:left;
+			margin-left:40px;
+			min-height:470px;
+		}
+		.avata{
+			width:272px;
+			height:376px;
+			background:#459ad5;
+		}
+		.info{
+			font-family:Georgia, "Times New Roman", Times, serif;
+			font-size:22px;
+		}
+		a{
+			text-decoration:none;
+			font-size:24px;
+			font-weight:bold;
+		}
+		.footer{
+			clear:both;
+			text-align:center;
+			background:#9dd9fe;
+			min-height:50px;
+		}

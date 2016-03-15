@@ -1,0 +1,36 @@
+
+		a{
+			color:#636363;
+			text-decoration:none;
+		}
+		
+		div.border{
+			width:1024px;
+			margin:auto;
+			padding:0;
+			background:url(Images/background.png) no-repeat;
+		}
+		
+		div.lheader{
+			float:left;
+			margin-left:50px;
+			margin-top:10px;
+		}
+		
+		div.rheader{
+			float:right;
+			font-size:28px;
+			margin-top:80px;
+		}
+		div.content{
+			clear: both;
+		}
+		div.footer{
+			text-align:center;
+		}
+		p.slogan{
+			margin-top:40px;
+			font-size:50px;
+			color: #acada5;
+			padding: 0;	
+		}
